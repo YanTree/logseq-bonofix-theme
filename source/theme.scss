@@ -201,6 +201,7 @@ html ::-webkit-scrollbar-thumb:hover {
   }
   .block-properties,
   .page-properties {
+    font-size: small;
     margin: 8px 0;
     padding: 10px 20px;
     background-color: var(--ls-block-properties-background-color, var(--rx-gray-03));
